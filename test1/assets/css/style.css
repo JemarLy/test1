@@ -1,15 +1,19 @@
-.container {
-	width: 840; 
-	margin: 25px;
+body {
+	width: auto; 
+	margin: 10%;
 	padding: 0;
+	background-color: lightblue;
+	text-align: center;
+
 	
 }
+nav 
 .picture {
 	text-align: center;
 }
 
 .resize {
-	box-shadow: 0 4px 6px 0 rgba(34, 60, 80, .16);
+	box-shadow: 0 4px 10px 0 rgba(34, 60, 80, .16);
 	transition: all ease-in-out .2s;
 	border-radius: 50%;
 	max-width: 50%;
